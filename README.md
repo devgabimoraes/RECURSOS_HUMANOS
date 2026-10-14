@@ -12,7 +12,7 @@ Este trabalho consiste na construção de uma base de dados em SQL e sua impleme
 
 * Bruna Leite
 * Tatiane Medeiros
-* Gabriela Viana
+* Gabriela de Moraes
 
 
 
